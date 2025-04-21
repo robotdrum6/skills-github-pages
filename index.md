@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Right. A blog. So they call it.
 ---
 
